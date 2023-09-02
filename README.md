@@ -1,1 +1,1 @@
-# Face_Attendence_System_using_OpenCV
+# Face Attendence System using OpenCV
